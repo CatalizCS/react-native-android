@@ -1,4 +1,4 @@
-package com.lab3
+package com.catalizcs.lab3
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

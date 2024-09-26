@@ -1,4 +1,4 @@
-package com.lab3
+package com.catalizcs.lab3
 
 import android.app.Application
 import com.facebook.react.PackageList

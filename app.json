@@ -1,4 +1,7 @@
 {
   "name": "Lab3",
-  "displayName": "Lab3"
+  "displayName": "Lab3",
+  "android": {
+    "package": "com.catalizcs.lab3"
+  }
 }
